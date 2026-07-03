@@ -8,7 +8,7 @@ permalink: /privacy/
 **Effective date:** 2026‑07‑02
 **App:** Mesa — Baby Monitor ("Mesa," the "App")
 **Provider:** Christian Magsisi ("we," "us," "our")
-**Contact:** [your dedicated Mesa email]
+**Contact:** cmagsisi@gmail.com
 
 ---
 
@@ -118,4 +118,4 @@ listing where appropriate.
 
 ## 11. Contact
 
-Questions about privacy? Email **[your dedicated Mesa email]**.
+Questions about privacy? Email **cmagsisi@gmail.com**.

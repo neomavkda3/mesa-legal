@@ -8,7 +8,7 @@ permalink: /terms/
 **Effective date:** 2026‑07‑02
 **App:** Mesa — Baby Monitor ("Mesa," the "App")
 **Provider:** Christian Magsisi ("we," "us," "our")
-**Contact:** [your dedicated Mesa email]
+**Contact:** cmagsisi@gmail.com
 
 By downloading or using Mesa, you agree to these Terms of Use ("Terms"). If you do
 not agree, do not use the App.
@@ -145,4 +145,4 @@ version at this URL; continued use after changes means you accept them.
 
 ## 15. Contact
 
-Questions? Email **[your dedicated Mesa email]**.
+Questions? Email **cmagsisi@gmail.com**.
