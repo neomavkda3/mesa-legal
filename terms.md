@@ -81,12 +81,12 @@ Family Sharing are handled by Apple under Apple's terms; refund requests are mad
 to Apple. We do not process payments or store your payment information. Except
 where required by law, purchases are non‑refundable by us.
 
-## 6. Acceptable use
+## 6. Acceptable use, recording, and consent
 
-You agree to use Mesa lawfully and only to monitor spaces and people you have the
-right to monitor. You are solely responsible for complying with all applicable
-laws, including **audio/video recording, surveillance, and consent laws**, which
-vary by location. You agree not to:
+You agree to use Mesa lawfully and only to monitor your own home and child, and
+only spaces and people you have the right to monitor. You are solely responsible
+for complying with all applicable laws, including **audio/video recording,
+surveillance, and consent laws**, which vary by location. You agree not to:
 
 - use Mesa to surveil, record, or intrude upon any person without a lawful basis
   or required consent;
@@ -96,6 +96,27 @@ vary by location. You agree not to:
 - interfere with, disable, or circumvent the App's security features or pairing
   mechanism;
 - resell, rent, sublicense, or commercially exploit the App or access to it.
+
+**Audio and recording-consent laws (important).** Mesa streams live **audio** and
+supports two-way talk. Laws on recording or listening to other people's
+conversations vary widely — many U.S. states (and other jurisdictions) require the
+consent of **all parties** to a private conversation, and several require you to
+**notify household workers** (such as a nanny, babysitter, or caregiver) before
+audio monitoring. **You are responsible for knowing and following these laws.** By
+using Mesa you represent and agree that you will:
+
+- obtain any consent, and give any notice, required by law before capturing the
+  audio of any other adult in your home (for example, a nanny, babysitter, guest,
+  or worker);
+- not aim the camera at, or monitor, any area where a person has a reasonable
+  expectation of privacy — such as a bathroom, a changing area, or a live-in
+  worker's private quarters;
+- use Mesa only to monitor your own child and home, and never as a hidden or covert
+  surveillance device, or to harass, stalk, or intimidate anyone.
+
+You are solely responsible for your use of Mesa's audio and video features, and you
+will indemnify us for any claim arising from your recording or monitoring (see
+Section 12).
 
 ## 7. Your content and privacy
 
