@@ -5,9 +5,9 @@ permalink: /privacy/
 
 # Mesa — Privacy Policy
 
-**Effective date:** 2026‑07‑02
+**Effective date:** 2026‑07‑03
 **App:** Mesa — Baby Monitor ("Mesa," the "App")
-**Provider:** Christian Magsisi ("we," "us," "our")
+**Provider:** Christian Magsisi ("we," "us," "our"), based in Ontario, Canada
 **Contact:** cmagsisi@gmail.com
 
 ---
@@ -37,12 +37,25 @@ personal information to us or to third parties. Specifically, we do **not**:
 - require or create an account;
 - upload, store, or have access to your video or audio;
 - use analytics, tracking, advertising, or third‑party marketing SDKs;
-- collect your location, contacts, photo library, or usage data;
-- sell or share personal information.
+- collect your location, contacts, photo library, or usage data.
 
 Apple's App Store "privacy label" for Mesa reflects this as **Data Not Collected**.
 
-## 3. Information the App processes on your device (and keeps there)
+## 3. We do not sell or share your personal information
+
+We do **not** sell your personal information, and we do **not** share it for
+cross‑context behavioral advertising or any similar purpose, as those terms are
+used under laws such as the California Consumer Privacy Act (CCPA/CPRA). We have no
+personal information about you to sell or share, because we don't collect it.
+
+## 4. No tracking
+
+Mesa does not track you across apps or websites and contains no third‑party
+tracking or advertising technology. Because we do not track you, we treat all
+users as opted out; "Do Not Track" and Global Privacy Control signals require no
+change to our practices.
+
+## 5. Information the App processes on your device (and keeps there)
 
 To work as a baby monitor, Mesa uses the following on your device only. This
 information is processed locally and is **not transmitted to us**:
@@ -56,17 +69,25 @@ information is processed locally and is **not transmitted to us**:
 | **Alert history & snapshots** | A short local record of alerts, with small snapshot thumbnails | Stored only on your Viewer device (in the App's private storage) |
 | **Pairing secret** | A shared secret that gates the connection between your devices | Stored in your device's Keychain |
 
-Deleting the App removes this local data from that device.
+You control this data. Deleting the App removes it from that device.
 
-## 4. How the connection works (and why it's private)
+## 6. How the connection works (and why it's private)
 
 Mesa pairs your two devices with a QR code / code and connects them **directly**
 using Apple's MultipeerConnectivity over your local Wi‑Fi. The connection is
 encrypted and gated by a shared secret, so a stranger's device can't join. The
-video and audio travel **only between your two devices** — not through us, and
-not through any cloud.
+video and audio travel **only between your two devices** — not through us, and not
+through any cloud.
 
-## 5. Purchases (Mesa Plus)
+## 7. Diagnostics and crash data
+
+Mesa contains no analytics or crash‑reporting tools of our own. If you have enabled
+"Share With App Developers" in your iOS settings, **Apple** may provide us with
+aggregated, non‑identifying crash and performance diagnostics through Apple's own
+systems. That is controlled by you in iOS Settings and by Apple, and it does not
+give us access to your video, audio, or personal information.
+
+## 8. Purchases (Mesa Plus)
 
 Mesa offers a one‑time in‑app purchase ("Mesa Plus"). Purchases are handled
 entirely by **Apple** through the App Store. We do not receive or process your
@@ -74,48 +95,57 @@ payment details. Your purchase is tied to your Apple ID (and Family Sharing, if
 enabled) and is verified by Apple's StoreKit. Apple's handling of the transaction
 is governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
-## 6. Children's Privacy
+## 9. Children's Privacy
 
 Mesa is designed to help parents and caregivers watch over their children, and it
 is intended to be operated by **adults**. We do **not** knowingly collect personal
-information from anyone, including children. Any imagery or audio of a child that
-the App handles stays on your own devices under your control and is never sent to
-us. If you believe a child has provided us personal information (note: we operate
-no servers that could receive it), please contact us at the address above.
+information from anyone, including children under 13 (or the equivalent age in your
+region). Any imagery or audio of a child that the App handles stays on your own
+devices under your control and is never sent to us. If you believe a child has
+provided us personal information (note: we operate no servers that could receive
+it), please contact us at cmagsisi@gmail.com.
 
-## 7. Data security
+## 10. Data security
 
 Because Mesa keeps your data on your own devices and connects them directly, there
 is no central database of your information for anyone to breach. The device‑to‑
 device connection is encrypted. You remain in control: the data lives on your
-devices, and removing the App removes it.
+devices, and removing the App removes it. No method of transmission or storage is
+perfectly secure, and Mesa depends on your own devices and network — please keep
+your devices and Apple ID secured.
 
-No method of transmission or storage is perfectly secure, and Mesa depends on your
-own devices and network. Please keep your devices and Apple ID secured.
-
-## 8. Third parties
+## 11. Third parties
 
 The only third party involved is **Apple**, which provides the App Store, in‑app
 purchases (StoreKit), the local networking framework, and the notification system.
 Apple's terms and privacy policy apply to those services. We do not integrate any
 other third‑party services.
 
-## 9. Your choices and rights
+## 12. Your choices and regional rights
 
 - You can turn off Camera, Microphone, Local Network, or Notification permissions
   at any time in iOS Settings (some monitor features won't work without them).
 - You can clear the local alert history in the App or by deleting the App.
-- Because we don't collect your personal information, there is nothing for us to
-  access, correct, or delete on our side. Depending on where you live (e.g., GDPR,
-  CCPA/CPRA), you may have data‑protection rights; since we hold no personal data
-  about you, most such requests are satisfied by your control of your own device.
+- Depending on where you live (for example, under Canada's PIPEDA, the EU/UK GDPR,
+  or California's CCPA/CPRA), you may have rights to access, correct, delete, or
+  port your personal information, or to object to its processing. **Because we do
+  not collect or hold any personal information about you, there is nothing for us
+  to provide, correct, or delete on our side — those rights are satisfied by your
+  control of your own device.** You may still contact us with any request or
+  question, and you will not be discriminated against for exercising a right.
 
-## 10. Changes to this policy
+## 13. International users
+
+We are based in **Ontario, Canada**. Because we do not collect or transmit your
+personal information, there is no international transfer of your data by us; your
+data stays on your own devices wherever you are.
+
+## 14. Changes to this policy
 
 If we update this policy, we'll revise the "Effective date" above and post the new
 version at this URL. Material changes will be reflected in the App or its App Store
 listing where appropriate.
 
-## 11. Contact
+## 15. Contact
 
 Questions about privacy? Email **cmagsisi@gmail.com**.
