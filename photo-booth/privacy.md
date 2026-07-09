@@ -1,5 +1,5 @@
 ---
-title: Mesa: Photo Booth Privacy Policy
+title: "Mesa: Photo Booth Privacy Policy"
 permalink: /photo-booth/privacy/
 ---
 
