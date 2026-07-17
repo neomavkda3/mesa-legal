@@ -4,7 +4,7 @@ title: "Mesa: Photo Booth Privacy Policy"
 
 # Mesa: Photo Booth Privacy Policy
 
-**Effective date:** 2026-07-09
+**Effective date:** 2026-07-16
 **App:** Mesa: Photo Booth ("the App")
 **Provider:** Christian Magsisi ("we," "us," "our"), based in Ontario, Canada
 **Contact:** cmagsisi@gmail.com
@@ -60,7 +60,7 @@ perform each function. These are the only third parties involved.
 | Provider | What it receives | Why |
 |---|---|---|
 | Apple | App Store, in-app purchase, notifications | Distributes the App and processes purchases |
-| OpenAI | Your photo | Generates the AI-styled portrait |
+| Google (Gemini) | Your photo | Generates the AI-styled portrait |
 | Supabase | Your finished portrait (temporary hosting/storage) | Creates the download link for QR and delivery |
 | Resend | Your email address and the download link | Sends your portrait by email |
 | Twilio | Your phone number and the download link | Sends your portrait by text (only if the host enables text delivery) |
@@ -102,7 +102,7 @@ or cmagsisi@gmail.com.
 
 ## 10. International processing
 
-The services in section 5 (for example OpenAI, Supabase, Resend, Twilio) may process
+The services in section 5 (for example Google, Supabase, Resend, Twilio) may process
 your photo or delivery address on servers outside your country, including in the United
 States. By using the booth and agreeing to the notice, you understand your photo is
 processed by these services to create and deliver your portrait.
